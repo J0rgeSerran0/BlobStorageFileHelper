@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/src/BlobStorageFileUtilities/obj
+/src/BlobStorageFileUtilities/bin/Debug/netcoreapp3.0
